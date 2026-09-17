@@ -4,7 +4,8 @@ The official implementation for the **CVPR 2026** paper
 
 \[[_Toward Low-Cost yet Effective Temporal Learning for UAV Tracking_](https://openaccess.thecvf.com/content/CVPR2026/html/Xue_Toward_Low-Cost_yet_Effective_Temporal_Learning_for_UAV_Tracking_CVPR_2026_paper.html)\]
 
-Models, Raw Results, and Training Logs are available for download at [here](https://pan.baidu.com/s/1ziHNb6ZHmEC_tlx7d-q7rw?pwd=6n35), code: 6n35
+Models, Raw Results, and Training Logs are available for download at [here](https://pan.baidu.com/s/1ziHNb6ZHmEC_tlx7d-q7rw?pwd=6n35), or use [google drive](https://drive.google.com/drive/folders/1NzD3LRCr-X80qQlvs9ygcEezh_E3Gr0A?usp=drive_link)
+
 
 ## Training Data Preparation
 Put the training datasets in ./data. It should look like:
@@ -33,7 +34,7 @@ Put the training datasets in ./data. It should look like:
 
 ## Test Data Preparation
 
-For ease of testing, we have made the structured dataset available for download at [here](https://pan.baidu.com/s/1p0H_hHGUAc3fWkD3wlfNcw?pwd=e22r), code: e22r. Or use [google drive](https://drive.google.com/drive/folders/1NzD3LRCr-X80qQlvs9ygcEezh_E3Gr0A?usp=drive_link)
+For ease of testing, we have made the structured dataset available for download at [here](https://pan.baidu.com/s/1p0H_hHGUAc3fWkD3wlfNcw?pwd=e22r), code: e22r. 
 
 Put the test datasets in ./data. It should look like:
    ```
