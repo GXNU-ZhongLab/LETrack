@@ -4,7 +4,7 @@ The official implementation for the **CVPR 2026** paper
 
 \[[_Toward Low-Cost yet Effective Temporal Learning for UAV Tracking_](https://openaccess.thecvf.com/content/CVPR2026/html/Xue_Toward_Low-Cost_yet_Effective_Temporal_Learning_for_UAV_Tracking_CVPR_2026_paper.html)\]
 
-Models, Raw Results, and Training Logs are available for download at [here](https://pan.baidu.com/s/1ziHNb6ZHmEC_tlx7d-q7rw?pwd=6n35), or use [google drive](https://drive.google.com/drive/folders/1NzD3LRCr-X80qQlvs9ygcEezh_E3Gr0A?usp=drive_link)
+Models, Raw Results, and Training Logs are available for download at [baidu drive](https://pan.baidu.com/s/1ziHNb6ZHmEC_tlx7d-q7rw?pwd=6n35), or  [google drive](https://drive.google.com/drive/folders/1NzD3LRCr-X80qQlvs9ygcEezh_E3Gr0A?usp=drive_link)
 
 
 ## Training Data Preparation
