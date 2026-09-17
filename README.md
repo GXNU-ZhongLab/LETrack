@@ -33,7 +33,7 @@ Put the training datasets in ./data. It should look like:
 
 ## Test Data Preparation
 
-For ease of testing, we have made the structured dataset available for download at [here](https://pan.baidu.com/s/1p0H_hHGUAc3fWkD3wlfNcw?pwd=e22r), code: e22r
+For ease of testing, we have made the structured dataset available for download at [here](https://pan.baidu.com/s/1p0H_hHGUAc3fWkD3wlfNcw?pwd=e22r), code: e22r. Or use [google drive](https://drive.google.com/drive/folders/1NzD3LRCr-X80qQlvs9ygcEezh_E3Gr0A?usp=drive_link)
 
 Put the test datasets in ./data. It should look like:
    ```
